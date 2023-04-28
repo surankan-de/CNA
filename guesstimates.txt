@@ -1,0 +1,39 @@
+##guesstimate of customer base of used electronics market in india
+
+lets say total population of india is 140 cr
+out of them 25% are the earning members = 35 CR
+out of which 
+ 10 % belong to upper class 3.5 Cr
+ 20 % upper middle class 7 Cr
+ 30 % middle class 10.5 Cr
+ 40 % poor class 14 Cr
+
+in upper class only 10% prefers to buy used electronics =0.35 Cr
+in upper middle class 30% prefer to buy used electronics = 2.1 Cr
+in middle class 50% prefers to buy used electronics = 5.25 Cr
+in poor class 70 % people prefers to buy used electonics = 9.8 Cr
+
+total market of people who are willing to buy used electronics in  india = 17.5Cr
+
+
+
+####guesstimate of profit(hypothetical)
+
+lets say we sell one product of cost(rs 10) and production cost 100
+lets say we have stock of 10 products (10 people generally buy from the company since it has strong reputation)
+so total cost = 200
+
+now since generally the profit of 30-50 percent is assumed lets say since the price is high the price per good is 30 per good(##market price is 27)
+since customer comes less lets say 6 people buy this product then total revenue = 180 which is less than 200 so company will be in loss
+
+if we reduce the price to the market price then lets say instead of 6 ,8 people come and buy and costs are being managed to rebe reduced by 5 %then total revenue is 216 where as cost is 195 thus we get profit
+
+this case is hypothetical as many things are assumed here but we need some more clarifying questions to get enough data and solve this problem
+ 
+
+
+
+
+
+
+
